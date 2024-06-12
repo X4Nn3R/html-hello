@@ -1,0 +1,155 @@
+body{
+    background: #424949;
+    height: 100%;
+	width: 100%;
+    margin: 0;    
+}
+
+header{
+    background: white;
+}
+
+header h1 {
+    text-align: center;
+    margin: 0;    
+}
+
+div {
+    margin: auto;
+}
+
+/* first publication */
+
+.fisrtpublication{
+    margin-top: 40px;
+    background: white;
+    width: 400px;
+    
+}
+
+.firsTitle{ 
+    display: flex;    
+}
+
+.firsTitle h2{        
+    width: 85%;
+    height: 50%;    
+    margin: 0;
+}
+
+.firsTitle span{ 
+    position: relative;
+    top: 5px;        
+    width: 15%; 
+    height: 5%;      
+    color: grey;    
+}
+
+.fisrtpublication img{
+     width: 400px;
+     height: 350px;
+     object-fit: cover;
+}
+
+
+/* second publication */
+
+.secondpublication{
+    margin-top: 40px;
+    background: white;
+    width: 400px;
+}
+
+.secondTitle{ 
+    display: flex;    
+}
+
+.secondTitle h2{        
+    width: 85%;
+    height: 50%;    
+    margin: 0;
+}
+
+.secondTitle span{ 
+    position: relative;
+    top: 5px;        
+    width: 15%; 
+    height: 5%;      
+    color: grey;    
+}
+
+.secondpublication img{
+    aspect-ratio: 1/1;
+     width: 400px;
+     height: 350px;
+     object-fit: cover;
+     
+}
+
+
+/* thirt publication */
+
+.thirdpublication{
+    margin-top: 40px;
+    background: white;
+    width: 400px;
+}
+
+.thirdTitle{ 
+    display: flex;    
+}
+
+.thirdTitle h2{        
+    width: 85%;
+    height: 50%;    
+    margin: 0;
+}
+
+.thirdTitle span{ 
+    position: relative;
+    top: 5px;        
+    width: 15%; 
+    height: 5%;      
+    color: grey;    
+}
+
+.thirdpublication img{
+     width: 400px;
+     height: 350px;
+     object-fit: cover;
+}
+
+
+/* fourt publication */
+
+.fourtpublishied{
+    margin-top: 40px;
+    background: white;
+    width: 400px;
+}
+
+.fourtTitle{ 
+    display: flex;    
+}
+
+.fourtTitle h2{        
+    width: 85%;
+    height: 50%;    
+    margin: 0;
+}
+
+.fourtTitle span{ 
+    position: relative;
+    top: 5px;        
+    width: 15%; 
+    height: 5%;      
+    color: grey;    
+}
+
+.fourtpublishied img{
+     width: 400px;
+     height: 350px;
+     object-fit: cover;
+}
+
+
